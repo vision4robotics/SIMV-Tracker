@@ -7,7 +7,7 @@ Spatial-to-Semantic Information and Multi-Recommender Voting (SIMV) tracker.
 ### Configuration
 
 1. Download VGG-Net-19 by cliking [here](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat) and put it in `/model`.
-2. Download matconvnet toolbox [here](http://www.vlfeat.org/matconvnet/download/matconvnet-1.0-beta25.tar.gz) and put it directly in root (which means there should be a `matconvnet/` folder in SIMV folder.
+2. Download matconvnet toolbox [here](http://www.vlfeat.org/matconvnet/download/matconvnet-1.0-beta25.tar.gz) and put it directly in root (which means there should be a `/matconvnet` folder in SIMV folder.
 
 ### How to run
 
